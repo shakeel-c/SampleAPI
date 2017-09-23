@@ -68,7 +68,7 @@ namespace SampleAPI.Controllers
 
 
 
-
+        /*
         // POST api/values
         [HttpPost]
         public void Post([]string value)
@@ -86,5 +86,6 @@ namespace SampleAPI.Controllers
         public void Delete(int id)
         {
         }
+        */
     }
 }
